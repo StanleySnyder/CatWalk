@@ -10,7 +10,7 @@ Instruction for linux.
 5. Install requirements.txt.
 7. Launch.
 
-   ```bash
+```bash
 git clone https://github.com/yourusername/mousewalk.git
 cd mousewalk
 python3 -m venv venv
@@ -18,3 +18,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 python screensaver_linux.py
+```
